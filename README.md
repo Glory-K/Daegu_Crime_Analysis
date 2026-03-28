@@ -175,4 +175,4 @@ Daegu_Crime_Analysis/
 ├── *.ipynb                  # 분석 전체 과정
 ├── README.md                # 프로젝트 소개
 ├── reports/                 # 보고서 PDF
-└── data/                    # 원본 데이터 또는 전처리 데이터
+└── data/                    # 원본 데이터 또는 전처리 데이터(링크로 대체) https://drive.google.com/drive/folders/1jT35aZRwabDvFtpIPJCctnofOv45ZOuL?usp=drive_link
